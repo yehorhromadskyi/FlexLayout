@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>FlexLayout.Xamarin</id>
+    <version>2.0.1</version>
+    <authors>yhromadskyi</authors>
+    <owners>yhromadskyi</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>Binding library for the Google's FlexboxLayout library</description>
+    <releaseNotes>FlexboxLayout 2.0.1 version is used</releaseNotes>
+    <copyright>Copyright 2021</copyright>
+    <tags>Xamarin Android FlexboxLayoutManager</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Xamarin.AndroidX.AppCompat" version="1.2.0.5" />
+      </group>
+    </dependencies>
+  </metadata>
+
+  <files>
+        <file src="FlexLayout/bin/Release/FlexLayout.dll" target="lib/MonoAndroid10/FlexLayout.dll" />
+    </files>
+</package>
