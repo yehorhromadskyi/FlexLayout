@@ -1,9 +1,9 @@
 # FlexLayout
 
 
-The original Java project for Android: https://github.com/google/flexbox-layout
+The original Java project for Android: https://github.com/google/flexbox-layout/blob/master/README.md
 
-Current binding library can be used with `RecyclerView`:
+Current binding library can be used similar to a native one, for example with `RecyclerView`:
 
 ``` c#
 recyclerView.SetLayoutManager(new FlexboxLayoutManager(this));
