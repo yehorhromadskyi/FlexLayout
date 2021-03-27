@@ -7,6 +7,7 @@
     <owners>yhromadskyi</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
+    <projectUrl>https://github.com/yehorhromadskyi/FlexLayout</projectUrl>
     <description>Binding library for the Google's FlexboxLayout library</description>
     <releaseNotes>FlexboxLayout 2.0.1 version is used</releaseNotes>
     <copyright>Copyright 2021</copyright>
