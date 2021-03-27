@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexLayout", "FlexLayout\FlexLayout.csproj", "{6B15BBE4-C236-4E66-A243-A9E4E11E3B6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexLayoutSample", "FlexLayoutSample\FlexLayoutSample.csproj", "{C91E0847-EE48-4B0C-A95F-187664C58527}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B15BBE4-C236-4E66-A243-A9E4E11E3B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B15BBE4-C236-4E66-A243-A9E4E11E3B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B15BBE4-C236-4E66-A243-A9E4E11E3B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B15BBE4-C236-4E66-A243-A9E4E11E3B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C91E0847-EE48-4B0C-A95F-187664C58527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91E0847-EE48-4B0C-A95F-187664C58527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91E0847-EE48-4B0C-A95F-187664C58527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91E0847-EE48-4B0C-A95F-187664C58527}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4001FD8A-C2BD-45D7-B436-537741213664}
+	EndGlobalSection
+EndGlobal
