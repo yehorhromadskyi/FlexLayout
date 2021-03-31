@@ -1,5 +1,5 @@
 # FlexLayout
-
+![alt text](https://github.com/yehorhromadskyi/FlexLayout/blob/master/resources/icon.png)
 
 The original Java project for Android: https://github.com/google/flexbox-layout/blob/master/README.md
 
