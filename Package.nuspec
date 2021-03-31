@@ -4,11 +4,11 @@
     <id>FlexLayout.Xamarin</id>
     <version>2.0.1</version>
     <authors>Yehor Hromadskyi</authors>
-    <owners>yhromadskyi</owners>
+    <owners>Yehor Hromadskyi</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
     <projectUrl>https://github.com/yehorhromadskyi/FlexLayout</projectUrl>
-    <description>Binding library for the Google's FlexboxLayout library</description>
+    <description>Binding library for the Google's FlexboxLayout (2.0.1) library</description>
     <releaseNotes>FlexboxLayout 2.0.1 version is used</releaseNotes>
     <copyright>Copyright 2021</copyright>
     <tags>Xamarin Android FlexboxLayoutManager</tags>
